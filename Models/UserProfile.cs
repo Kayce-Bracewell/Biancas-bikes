@@ -14,4 +14,5 @@ public class UserProfile
     public IdentityUser IdentityUser { get; set; }
 
     public List<WorkOrder> WorkOrders { get; set; }
+
 }
